@@ -1,5 +1,5 @@
-varun.exe:main.o fact.0 big3.o rev.o prime.o
-	gcc -o varun.exe main.o fact.0 big3.o rev.o prime.o
+VARUN.exe:main.o fact.o big3.o rev.o prime.o
+	gcc -o VARUN.exe main.o fact.o big3.o rev.o prime.o
 main.o:main.c
 	gcc -c main.c
 fact.o:fact.c
