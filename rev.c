@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<conio.h>
 void rev()
 {
     int i, j, k;
